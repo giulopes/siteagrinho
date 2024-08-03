@@ -8,14 +8,14 @@
 /* Estilo do corpo */
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #e3a2f0;
+    background-color: #ffffff;
     line-height: 1.6;
     margin: 0;
 }
 
 /* Estilo do cabeçalho */
 header {
-    background: #e3a2f0;
+    background: #c426a1;
     color: #fff;
     padding: 1rem 0;
 }
