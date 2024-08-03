@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+#main-title {
+    text-align: center;
+}
+
+
 /* Estilo do corpo */
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
