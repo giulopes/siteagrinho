@@ -91,3 +91,11 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* Estilo das imagens */
+section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 1rem;
+}
