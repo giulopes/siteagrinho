@@ -20,7 +20,7 @@ body {
 
 /* Estilo do cabeçalho */
 header {
-    background: #c426a1;
+    background: #e7249c;
     color: #fff;
     padding: 1rem 0;
 }
@@ -88,7 +88,7 @@ section p {
 
 /* Estilo do rodapé */
 footer {
-    background: #c426a1;
+    background: #e7249c;
     color: #fff;
     text-align: center;
     padding: 1rem 0;
